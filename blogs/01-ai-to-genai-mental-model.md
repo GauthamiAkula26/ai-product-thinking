@@ -52,21 +52,9 @@ Machine Learning is the backbone of most AI products. It replaces static rules w
 ## 3. Machine Learning Training Flow
 
 ```
-Business Problem
-    ↓
-Relevant & High-Quality Data
-    ↓
-Feature Selection
-    ↓
-Model Training
-    ↓
-Evaluation (Accuracy, Precision, Recall)
-    ↓
-Deployment
-    ↓
-Monitoring & Re-training
-```
+<img width="1134" height="545" alt="image" src="https://github.com/user-attachments/assets/afef6486-0ee4-40b6-844c-42eda7e2ab69" />
 
+```
 ---
 
 ## 4. Deep Learning: Understanding at Scale
