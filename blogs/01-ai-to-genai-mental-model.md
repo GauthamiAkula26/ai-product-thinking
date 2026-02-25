@@ -1,5 +1,7 @@
 AI → GenAI: A Product Manager’s Mental Model
+
 As a Senior Product Manager, I don’t view AI as a single feature or model choice. I view it as a capability stack—each layer enabling a different kind of product outcome, decision quality, and customer experience.
+
 This post captures how I think about AI, Machine Learning, Deep Learning, and Generative AI, and how these concepts translate into real, shippable products.
 
 1. AI as a Capability Stack
@@ -117,4 +119,4 @@ Strong AI products emerge when Product Managers:
 	• Choose the right capability
 	• Measure real user impact
 That—not the model—is what differentiates successful AI products.
-<img width="743" height="3027" alt="image" src="https://github.com/user-attachments/assets/6093eb1a-59eb-4255-b144-57606a1d66e6" />
+
