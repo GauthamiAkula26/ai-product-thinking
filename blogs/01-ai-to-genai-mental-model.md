@@ -35,19 +35,19 @@ Learning Approaches
 Most ML failures are not algorithm failures — they are data alignment failures.
 
 3. Visual: Machine Learning Training Flow
-Business Problem
-      ↓
-Relevant & High-Quality Data
-      ↓
-Feature Selection
-      ↓
-Model Training
-      ↓
-Evaluation (Accuracy, Precision, Recall)
-      ↓
-Deployment
-      ↓
-Monitoring & Re-training
+	Business Problem
+      		↓
+	Relevant & High-Quality Data
+    		↓
+	Feature Selection
+      		↓
+	Model Training
+      		↓
+	Evaluation (Accuracy, Precision, Recall)
+     	 	↓
+	Deployment
+      		↓
+	Monitoring & Re-training
 
 
 4. Deep Learning: Understanding at Scale
@@ -77,38 +77,38 @@ What enables GenAI in products:
 For PMs, GenAI success depends on trust, accuracy, cost control, and safety, not just creativity.
 
 6. Visual: Traditional ML vs Generative AI
-Traditional Machine Learning
-Input Data → Model → Predicted Output
+	Traditional Machine Learning
+	Input Data → Model → Predicted Output
 
-Generative AI
-Input + Context → Model → New Content
+	Generative AI
+	Input + Context → Model → New Content
 
 
 7. AI Product Lifecycle (PM View)
 Traditional software ships features.
 AI products ship decisions, predictions, and responses.
-AI Product Lifecycle
-	1. Problem definition and feasibility
-	2. Data acquisition and preparation
-	3. Model training
-	4. Evaluation and refinement
-	5. Deployment
-	6. Monitoring, bias checks, retraining
+	AI Product Lifecycle
+		1. Problem definition and feasibility
+		2. Data acquisition and preparation
+		3. Model training
+		4. Evaluation and refinement
+		5. Deployment
+		6. Monitoring, bias checks, retraining
 Data and models are first-class product dependencies, not implementation details.
 
 8. Measuring What Matters
 AI products require two layers of metrics:
-Model Metrics
-	• Accuracy, precision, recall
-	• RMSE (for regression)
-	• Bias and fairness indicators
-Product Metrics
-	• Adoption and retention
-	• Decision quality improvement
-	• User trust and satisfaction
+	Model Metrics
+		• Accuracy, precision, recall
+		• RMSE (for regression)
+		• Bias and fairness indicators
+	Product Metrics
+		• Adoption and retention
+		• Decision quality improvement
+		• User trust and satisfaction
 A Product Manager’s role is to connect model performance to business impact.
 
-9. Final Takeaway
+10. Final Takeaway
 AI is not one thing.
 	• ML predicts
 	• DL understands
