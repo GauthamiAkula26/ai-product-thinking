@@ -51,10 +51,10 @@ Machine Learning is the backbone of most AI products. It replaces static rules w
 
 ## 3. Machine Learning Training Flow
 
-```
-<img width="1134" height="545" alt="image" src="https://github.com/user-attachments/assets/afef6486-0ee4-40b6-844c-42eda7e2ab69" />
 
-```
+<img width="1221" height="670" alt="image" src="https://github.com/user-attachments/assets/d2476aa9-0ea5-4962-a71d-a34ca6aa609f" />
+
+
 ---
 
 ## 4. Deep Learning: Understanding at Scale
