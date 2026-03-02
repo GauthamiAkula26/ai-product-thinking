@@ -1,4 +1,4 @@
-
+[AI-Accuracy-and-Hallucination.md](https://github.com/user-attachments/files/25697626/AI-Accuracy-and-Hallucination.md)[Building-with-LLMs and RAG.md](https://github.com/user-attachments/files/25697534/Building-with-LLMs.and.RAG.md)
 ---
 
 ## Building with LLMs and RAG: A Technical Blueprint
@@ -12,6 +12,10 @@ LLMs are the engine of modern Conversational AI, which mimics human conversation
 - **Zero-Shot Learning:** Because LLMs are trained on unfathomable amounts of data, they are capable of "zero-shot learning." This means an LLM can be applied to a completely new task it was never explicitly trained for and still produce an acceptable response on its first try.
 - **Selecting an LLM:** When choosing an open-source model (like Huggingface) or a proprietary one, you must evaluate text processing capabilities, accuracy, multilingual support, operational costs, privacy, and security. You must also strictly review license terms (e.g., MIT, Apache, MetaLlama, GPL) to understand your rights to modify or fine-tune the source code.
 
+- 
+<img width="1217" height="655" alt="image" src="https://github.com/user-attachments/assets/856548ff-6640-430b-b4a5-436369a3abeb" />
+
+
 ### 2. Prototyping and Controlling LLMs
 Machine learning models are highly capable but can be costly and prone to hallucinations or bias. To control an LLM's behavior during prototyping, you use specific levers:
 
@@ -21,6 +25,9 @@ Machine learning models are highly capable but can be costly and prone to halluc
 
 ### 3. Conquering Hallucinations with RAG
 To reduce hallucinations and build high accuracy, developers use Retrieval-Augmented Generation (RAG). Instead of relying solely on the LLM's internal memory, RAG searches an external vector database of trusted reference data to feed into the LLM before it produces a response.
+
+<img width="1183" height="632" alt="image" src="https://github.com/user-attachments/assets/1fdb7b2c-2566-4bdb-8798-0096efe75c14" />
+
 
 **The RAG Data Pipeline:**
 1. **Data Preparation:** Remove noise and irrelevant data. Divide the raw data into discrete chunks, format them, and add metadata (often formatted as a graph).
